@@ -1,0 +1,26 @@
+Rank,country,continent,CoffeeCons,Countrycode,WorkingHours,TeaConsumption,CigaretteConsumption
+1,Finland,Europe,12.0,FIN,1555.0,0.54,1098.8
+2,Norway,Europe,9.9,NOR,1416.4,0.6,552.8
+3,Iceland,Europe,9.0,ISL,1469.0,0.3,848.1
+4,Denmark,Europe,8.7,DNK,1392.0,0.32,1298.0
+5,Netherlands,Europe,8.4,NLD,1433.0,1.72,1459.9
+6,Sweden,Europe,8.2,SWE,1474.0,0.64,716.2
+7,Switzerland,Europe,7.9,CHE,1561.0,0.97,1489.0
+8,Belgium,Europe,6.8,BEL,1545.0,0.28,2440.9
+9,Luxembourg,Europe,6.5,LUX,1506.0,0.47,6330.9
+10,Canada,America,6.5,CAN,1708.0,1.12,1021.3
+11,Bosnia and Herzegovina,Europe,6.2,BIH,1880.0,0.08,1767.2
+12,Austria,Europe,6.1,AUT,1511.0,0.59,1927.0
+13,Italy,Europe,5.9,ITA,1722.6,0.31,1493.3
+14,Brazil,America,5.8,BRA,1750.0,0.04,333.5
+15,Slovenia,Europe,5.8,SVN,1602.8,0.14,2236.5
+16,Germany,Europe,5.5,DEU,1362.6,1.52,1599.5
+17,Greece,Europe,5.4,GRC,1956.0,0.05,2078.6
+18,France,Europe,5.4,FRA,1520.0,0.44,1089.9
+19,Croatia,Europe,5.1,HRV,1710.0,0.06,1578.9
+20,Cyprus,Europe,4.9,CYP,1790.0,0.6,1961.4
+21,Lebanon,Asia,4.8,LBN,1900.0,0.74,2037.5
+22,Estonia,Europe,4.5,EST,1748.0,0.42,1759.9
+23,Spain,Europe,4.5,ESP,1701.0,0.32,1499.0
+24,Portugal,Europe,4.3,PRT,1722.0,0.14,1133.4
+25,United States,America,4.2,USA,1786.0,0.5,1016.6
